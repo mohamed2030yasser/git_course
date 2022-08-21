@@ -3,4 +3,9 @@
 	#to open file
 :: mkdir folder_name
 	#to creat folder
-
+:: git status
+	# وريني الحالة الدنيا ناقصها ايه
+:: git add .
+	#to staging area
+:: git reset head file_name
+	#unstage
