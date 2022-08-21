@@ -9,3 +9,8 @@
 	#to staging area
 :: git reset head file_name
 	#unstage
+:: git branch
+:: git remote -v
+:: git push remote_name brench_name
+
+
