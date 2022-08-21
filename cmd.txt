@@ -1,0 +1,6 @@
+:: cd/     #to open c partition
+:: cd Users\Diefco\Desktop\C_temp\my_git\git_course  
+	#to open file
+:: mkdir folder_name
+	#to creat folder
+
